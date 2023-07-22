@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Website
+title: William Cutler
 
 # Your name to show in the footer
 author: William Cutler
@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Professional Experience: "professional"
   Projects: "projects"
-  Publications: "publications"
+  Recognition: "recognition"
   Fun: "fun"
 
 
@@ -42,6 +42,7 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
+test_boolean: true
 
 #####################################
 # --- Footer social media links --- #
@@ -50,16 +51,16 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  # email: "someone@example.com"
+  github: william-cutler
+  email: "cutler.wi@northeastern.edu"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
-github: william-cutler
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: c/daattali
-medium: williamcutler2001
+  medium: williamcutler2001
 #  reddit: yourname
-linkedin: william-r-cutler
+  linkedin: william-r-cutler
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -73,7 +74,7 @@ linkedin: william-r-cutler
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  google-scholar: William Cutler
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
