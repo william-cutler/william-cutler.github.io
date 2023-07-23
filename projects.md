@@ -4,13 +4,22 @@ title: Projects
 subtitle: Things I've done
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+This is a mix of projects done for classes, for hackathons, or just on my own.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Table of Contents
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+* This Website
+* iQuHacks
+* Imitation Learning for Simulated Robotic Arm (aka Hobbes)
+* Nand2Tetris
+* Ruby Spectroscopy and Fluorescence
+* HuskyPedia
+* Poke-Techs, LA Hacks 2021
+* EasyAnimator
+* Sierpinski Triangle
+* RemoTrips, IvyHacks 2020
+* Doodle Jump in Java
+* Ultimatum Game Simulation
+* ActivityTracker
+* Lazers! by CutlerGames (my first app!)
+* Charger Talk
