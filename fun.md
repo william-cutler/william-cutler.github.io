@@ -48,9 +48,15 @@ A dystopian short-story with themes of government surveillance and unjust intrus
 
 **Philmont Poetry**
 
+Poetry that I wrote at (almost) each place we slept at during my Boy Scout high adventure trip to Philmont Scout Ranch, New Mexico.
+
 [PDF Here]({{ site.url }}/assets/philmont_poetry.pdf)
 
 **Judgement**
+
+This one gets a bit personal, the result of some thoughts swirling through my head. It isn't actually what I believe, but I take it to be a frightening warning of what I might think were I to be overtaken by jealousy, envy, and judgement.
+
+[PDF Here]({{ site.url }}/assets/judgement.pdf)
 
 ### Non-fiction/Academic
 * DCE Character Essay
